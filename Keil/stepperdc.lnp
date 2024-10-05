@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"stepdc.obj" 
+TO "stepperdc" 
+RAMSIZE(256) 
